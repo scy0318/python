@@ -1,1 +1,1 @@
-print('python112')
+print('python')
