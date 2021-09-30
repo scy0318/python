@@ -1,7 +1,8 @@
-from tkinter import *
+#from tkinter import *
+import tkinter as tk
 
 # Tk클래스를 이용해서 윈도우 창을 만든다
-win = Tk()
+win = tk.Tk()
 
 # 타이틀 추가
 win.title("파이썬 GUI")
